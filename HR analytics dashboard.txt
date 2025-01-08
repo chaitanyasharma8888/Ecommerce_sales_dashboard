@@ -1,0 +1,7 @@
+HR Analytics Dashboard Insights:
+
+The overall attrition rate is high at approximately 23%.
+Employees earning less than 5K have an attrition rate of 22%.
+Attrition is highest among employees aged 18-25, at around 36%.
+Sales representatives experience an attrition rate of about 40%.
+Employees with 2 to 5 years of tenure have the highest attrition rate.
